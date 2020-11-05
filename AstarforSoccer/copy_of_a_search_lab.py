@@ -13,7 +13,6 @@ A* search is an informed search algorithm that acheives better performance than 
 In this part, the field must be defined. We will represent the field as a 2 dimensional numpy array. A numpy array is like a python array, but it can be transformed using cpython code, which makes it faster for vector transformations. Coordinates on this field will be represtented as python tuples. This class exposes functions to change ball and player positions.
 """
 
-# Lab by Morgan Swanson
 import numpy as np 
 import copy
 
